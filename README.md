@@ -5,6 +5,7 @@ Developer with a strong interest in software engineering, data engineering, and 
 **Currently working on:**
 
 [![Homelab](https://svg.bookmark.style/api?url=https://github.com/6sl3pt/homelab?v&mode=dark&style=horizontal)](https://github.com/6sl3pt/homelab)
+[![Dev Server](https://svg.bookmark.style/api?url=https://github.com/6sl3pt/dev-server?v&mode=dark&style=horizontal)](https://github.com/6sl3pt/dev-server)
 
 **Activities:**
 
