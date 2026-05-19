@@ -10,15 +10,15 @@ Developer with a strong interest in software engineering, data engineering, and 
 **Activities:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [6sl3pt/env-aesthetics](https://github.com/6sl3pt/env-aesthetics)<br>
+1. ⬆️ Pushed undefined commit(s) to [6sl3pt/6SL3PT](https://github.com/6sl3pt/6SL3PT)<br>
 2. ⬆️ Pushed undefined commit(s) to [6sl3pt/homelab](https://github.com/6sl3pt/homelab)<br>
 3. ⬆️ Pushed undefined commit(s) to [6sl3pt/homelab](https://github.com/6sl3pt/homelab)<br>
 4. ⬆️ Pushed undefined commit(s) to [6sl3pt/homelab](https://github.com/6sl3pt/homelab)<br>
-5. ⬆️ Pushed undefined commit(s) to [6sl3pt/homelab](https://github.com/6sl3pt/homelab)<br>
+5. ⬆️ Pushed undefined commit(s) to [6sl3pt/env-aesthetics](https://github.com/6sl3pt/env-aesthetics)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 18th, 2026, 3:38:40 AM
+Last Updated: Tuesday, May 19th, 2026, 3:32:02 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 > Tip: powered by [GitHub Readme Activity Workflow](https://github.com/Readme-Workflows/recent-activity)
